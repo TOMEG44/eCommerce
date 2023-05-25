@@ -38,6 +38,27 @@
         {
             background-color: rgba(2, 2, 60, 0.951);
         }
+        .trending-image
+        {
+            height: 100px;
+        }
+        .trending-item
+        {
+            float: left;
+            width: 20%;
+        }
+        .trending-wrapper
+        {
+            margin: 40px;
+        }
+        .detail-img
+        {
+            height: 200px;
+        }
+        .btn
+        {
+            margin-bottom: 20px;
+        }
         
     </style>
 </head>
