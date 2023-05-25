@@ -20,6 +20,25 @@
             height: 500px;
             padding-top: 100px;
         }
+        img.slider-img
+        {
+            height: 400px !important
+
+        }
+        .custom-product
+        {
+            height: 600px;
+        }
+        .carousel-caption
+        {
+            background-color: rgba(2, 2, 60, 0.951);
+            opacity: 80%;
+        }
+        .slider-text
+        {
+            background-color: rgba(2, 2, 60, 0.951);
+        }
+        
     </style>
 </head>
 <body>
